@@ -1,7 +1,5 @@
 package br.com.hcode.solid.lsp;
 
-import java.sql.SQLOutput;
-
 public class DebitCard extends NubankCard{
 
     @Override

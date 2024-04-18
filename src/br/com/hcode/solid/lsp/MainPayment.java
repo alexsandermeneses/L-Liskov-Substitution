@@ -8,6 +8,5 @@ public class MainPayment {
 
         card.validate(); //metodos são os mesmos
         card.collectPayment();
-
     }
 }
